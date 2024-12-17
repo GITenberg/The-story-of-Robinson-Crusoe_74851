@@ -1,0 +1,60 @@
+_repo: The-story-of-Robinson-Crusoe_74851
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Goffaux, François Joseph
+    aliases:
+    - Goffaux, François-Joseph
+    - Goffaux, Francois Joseph
+    - Goffaux, F. J. (François Joseph)
+    birthdate: 1755
+    deathdate: 1836
+    gutenberg_agent_id: '56919'
+    url: http://www.gutenberg.org/2009/agents/56919
+    wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Joseph_Goffaux
+creator:
+  authors:
+  - agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - John, Gabriel
+    - Moreton, Andrew
+    - Defoë, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/ebooks/author/26500
+  - agent_name: Campe, Joachim Heinrich
+    alias: Campe, J. H. (Joachim Heinrich)
+    birthdate: 1746
+    deathdate: 1818
+    gutenberg_agent_id: '9569'
+    url: http://www.gutenberg.org/2009/agents/9569
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joachim_Heinrich_Campe
+    - https://de.wikipedia.org/wiki/Joachim_Heinrich_Campe
+  editor:
+    agent_name: Barnett, Percy Arthur
+    gutenberg_agent_id: '57685'
+    url: http://www.gutenberg.org/2009/agents/57685
+description: ''
+gutenberg_issued: '2024-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74851'
+language: la
+pgterms:marc904: https://archive.org/details/storyrobinsoncr00campgoog
+pgterms:marc905: 20240214093644defoe
+pgterms:marc906: '1907'
+pgterms:marc907: UK
+production_note: Aurēliānus Agricola
+publication_note: '  $aLondon :$bLongmans, Green, and Co, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The story of Robinson Crusoe
+url: http://www.gutenberg.org/ebooks/74851
