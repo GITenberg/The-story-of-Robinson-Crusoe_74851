@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '56919'
     url: http://www.gutenberg.org/2009/agents/56919
     wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Joseph_Goffaux
+covers:
+- cover_type: archival
+  image_path: 74851-h/images/cover.png
 creator:
   authors:
   - agent_name: Defoe, Daniel
@@ -40,6 +43,8 @@ creator:
     gutenberg_agent_id: '57685'
     url: http://www.gutenberg.org/2009/agents/57685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74851#The-story-of-Robinson-Crusoe
 gutenberg_issued: '2024-12-07'
 gutenberg_type: Text
 identifiers:
